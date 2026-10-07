@@ -2,6 +2,6 @@
 window.PATCH_SITE = Object.freeze({
   owner: 'nyangpunch123',
   repository: 'gundam-cca-korean-patch',
-  published: false,
+  published: true,
   asset: 'Gundam_CCA_Korean_Patch.zip'
 });
